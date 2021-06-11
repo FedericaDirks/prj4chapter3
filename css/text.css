@@ -1,0 +1,25 @@
+.body{
+	background: #86af49
+
+}
+
+#creator{color: #e3eaa7;} 
+
+.h3-shape{color: #86af49; text-decoration: underline;}
+
+.h3-color {color: #86af49; text-decoration: underline;}
+
+.h3-Behavior{color: #86af49; text-decoration: underline;}
+
+.h3-Lorem-ipsum {color: #86af49; text-decoration: underline;}
+
+.my-container {
+    text-align: center;
+    background-color: #b5e7a0;
+	border: 1px #d5e1df;
+    width: 819px;
+    min-height: 152px;
+      }
+#image{opacity: 0.6;
+}
+.p-information{color: #86af49; text-transform: uppercase;}
