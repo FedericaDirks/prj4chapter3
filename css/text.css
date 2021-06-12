@@ -1,4 +1,7 @@
-* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+.body{
+	background: #008000;
+
+}
 
 .cats{color: #86af49; text-decoration: underline; text-align: center;}
 
